@@ -6,3 +6,9 @@ torch
 torchvision
 pycolmap
 scikit-learn
+joblib
+tqdm
+shapely
+h5py
+tensorflow
+transformers
