@@ -1,5 +1,5 @@
 Feature Matching → Geometric Verification → (Optional) SfM with COLMAP
-
+Conduct 3D Reconstructions on classified images in a folder with similar context but different scenarios (eg ET plush in front of a plastic shelf vs another design of ET in front of wooden shelf)
 This repo implements a two-stage image matching pipeline:
 
 1) Global retrieval with DINOv2
