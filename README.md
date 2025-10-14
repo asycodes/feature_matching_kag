@@ -9,6 +9,6 @@ This repo implements a two-stage image matching pipeline:
 It’s designed for fast candidate generation (global) and precise correspondence estimation (local), and can export to a COLMAP database for SfM.
 
 
-
+![ET Image](test/ETs/another_et_another_et004.png)
 ![Image Pairing](graphs/pairs_graph.png)
 ![3D Reconstruction](3d_reconstruction.JPG)
