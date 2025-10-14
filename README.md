@@ -11,4 +11,4 @@ It’s designed for fast candidate generation (global) and precise correspondenc
 
 
 ![Image Pairing](graphs/pairs_graph.png)
-![3D Reconstruction](3d_reconstruction.jpg)
+![3D Reconstruction](3d_reconstruction.JPG)
